@@ -1,9 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 # News Homepage Solution
 
 This project involves creating a News Homepage Main, featuring a modern-looking UI design that's responsive to all screen sizes. The design and challenge for this project are provided by [Frontend Mentors](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). The project is built using React.js with a proper project structure.
